@@ -1,0 +1,40 @@
+body {
+    padding: 7% 30% 10%;
+    background: linear-gradient(to top,#dc59e0, #183bd6);
+}
+
+.form {
+    background-color: rgb(16, 1, 58);
+    padding: 10px;
+    
+}
+
+#inp {
+    width: 90%;
+    padding: 15px;  
+    border-radius: 5px;  
+}
+
+h2{
+    color: whitesmoke;
+    text-align: center;
+}
+.input {
+    color: white;
+}
+
+button{
+    width: 30%;
+    margin-top: 20px;
+    margin-left: 35%;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #183bd6;
+    color: white;
+}
+#one{
+    margin-left: 20px;
+}
+#favcolor{
+    margin-left: 10px;
+}
