@@ -1,11 +1,12 @@
 body {
     padding: 7% 30% 10%;
-    background: linear-gradient(to top,#dc59e0, #183bd6);
+    background: whitesmoke;
 }
-
+/* linear-gradient(to top,#dc59e0, #183bd6) */
 .form {
     background-color: rgb(16, 1, 58);
     padding: 10px;
+    color: white;
     
 }
 
@@ -29,7 +30,7 @@ button{
     margin-left: 35%;
     padding: 10px;
     border-radius: 50px;
-    background-color: #183bd6;
+    background-color: #f398e7;
     color: white;
 }
 #one{
